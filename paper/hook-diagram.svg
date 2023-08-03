@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 849.1 266.7" style="enable-background:new 0 0 849.1 266.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{font-family:'ACaslonPro-Regular';}
+	.st2{font-size:14px;}
+	.st3{font-family:'ACaslonPro-Semibold';}
+	.st4{font-size:24px;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3.9235,3.9235;}
+	.st6{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3.9216,3.9216;}
+</style>
+<rect x="231.9" y="97.8" class="st0" width="134" height="33"/>
+<rect x="231.9" y="153.8" class="st0" width="134" height="33"/>
+<rect x="231.9" y="209.8" class="st0" width="134" height="33"/>
+<rect x="4.9" y="80.8" class="st0" width="184" height="171"/>
+<rect x="661.9" y="80.8" class="st0" width="184" height="171"/>
+<text transform="matrix(1 0 0 1 67.6516 62.5684)" class="st1 st2">User code</text>
+<text transform="matrix(1 0 0 1 130.4129 19.2983)" class="st3 st4">Imperative</text>
+<text transform="matrix(1 0 0 1 615.6757 19.2983)" class="st3 st4">Hook</text>
+<text transform="matrix(1 0 0 1 66.9031 101.7545)" class="st1 st2">Main loop</text>
+<text transform="matrix(1 0 0 1 283.2589 118.4212)" class="st1 st2">Class</text>
+<text transform="matrix(1 0 0 1 64.6349 130.7016)" class="st1 st2">Model step</text>
+<text transform="matrix(1 0 0 1 65.8741 182.2612)" class="st1 st2">Agent step</text>
+<text transform="matrix(1 0 0 1 69.899 229.3161)" class="st1 st2">Post-step</text>
+<text transform="matrix(1 0 0 1 272.6054 174.4386)" class="st1 st2">Function</text>
+<text transform="matrix(1 0 0 1 264.5274 230.4561)" class="st1 st2">Data collect</text>
+<text transform="matrix(1 0 0 1 265.9132 62.5684)" class="st1 st2">Framework</text>
+<rect x="42.9" y="113.8" class="st0" width="108" height="25"/>
+<rect x="42.9" y="165.8" class="st0" width="108" height="25"/>
+<rect x="42.9" y="212.8" class="st0" width="108" height="25"/>
+<g>
+	<g>
+		<line class="st0" x1="210.1" y1="62.6" x2="210.1" y2="64.6"/>
+		<line class="st5" x1="210.1" y1="68.5" x2="210.1" y2="262.7"/>
+		<line class="st0" x1="210.1" y1="264.7" x2="210.1" y2="266.7"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="96.9" y1="144.2" x2="96.9" y2="154.1"/>
+		<g>
+			<polygon points="91.9,152.6 96.9,161.2 101.8,152.6 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="96.9" y1="194.2" x2="96.9" y2="204.1"/>
+		<g>
+			<polygon points="91.9,202.6 96.9,211.2 101.8,202.6 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="287.9" y1="190.2" x2="287.9" y2="199.1"/>
+		<g>
+			<polygon points="282.9,197.6 287.9,206.2 292.9,197.6 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="304.9" y1="197.4" x2="304.9" y2="206.2"/>
+		<g>
+			<polygon points="299.9,198.9 304.9,190.2 309.9,198.9 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="158.9" y1="121" x2="216.1" y2="111.4"/>
+		<g>
+			<polygon points="215.5,116.6 223.2,110.3 213.8,106.8 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="624.3" y1="110.8" x2="682.2" y2="118.5"/>
+		<g>
+			<polygon points="680.2,123.2 689.4,119.4 681.5,113.4 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="631.4" y1="121.4" x2="689.4" y2="129.1"/>
+		<g>
+			<polygon points="632.2,126.6 624.3,120.5 633.5,116.7 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="624.3" y1="161" x2="682.2" y2="168.7"/>
+		<g>
+			<polygon points="680.2,173.5 689.4,169.7 681.5,163.6 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="631.4" y1="171.6" x2="689.4" y2="179.3"/>
+		<g>
+			<polygon points="632.2,176.8 624.3,170.7 633.5,166.9 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="624.4" y1="219.8" x2="683.2" y2="220"/>
+		<g>
+			<polygon points="681.7,225 690.4,220.1 681.8,215 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="631.5" y1="228.8" x2="690.4" y2="229.1"/>
+		<g>
+			<polygon points="633,233.8 624.4,228.8 633,223.8 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="165.9" y1="130.8" x2="223.2" y2="121.2"/>
+		<g>
+			<polygon points="168.2,135.4 158.9,131.9 166.6,125.6 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="159.4" y1="219.8" x2="216.2" y2="219.9"/>
+		<g>
+			<polygon points="214.7,224.8 223.4,219.9 214.7,214.9 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="166.5" y1="230.8" x2="223.4" y2="230.9"/>
+		<g>
+			<polygon points="168,235.8 159.4,230.8 168,225.8 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st0" d="M29.2,126.8h-1.8c-3,0-5.5,3.7-5.5,8.3v87.3c0,4.6,2.5,8.3,5.5,8.3h9"/>
+		<g>
+			<polygon points="27.7,121.8 36.4,126.8 27.7,131.7 			"/>
+		</g>
+	</g>
+</g>
+<rect x="484.9" y="97.8" class="st0" width="134" height="33"/>
+<rect x="484.9" y="153.8" class="st0" width="134" height="33"/>
+<rect x="484.9" y="209.8" class="st0" width="134" height="33"/>
+<text transform="matrix(1 0 0 1 522.9148 62.5684)" class="st1 st2">User code</text>
+<text transform="matrix(1 0 0 1 519.3799 118.4212)" class="st1 st2">Model step</text>
+<text transform="matrix(1 0 0 1 731.204 128.7016)" class="st1 st2">Hook</text>
+<text transform="matrix(1 0 0 1 731.204 182.2611)" class="st1 st2">Hook</text>
+<text transform="matrix(1 0 0 1 713.9003 228.6927)" class="st1 st2">Data collect</text>
+<text transform="matrix(1 0 0 1 520.6195 174.4386)" class="st1 st2">Agent step</text>
+<text transform="matrix(1 0 0 1 524.6441 230.4561)" class="st1 st2">Post-step</text>
+<text transform="matrix(1 0 0 1 721.1763 62.5684)" class="st1 st2">Framework</text>
+<g>
+	<g>
+		<line class="st0" x1="638.9" y1="62.2" x2="638.9" y2="64.2"/>
+		<line class="st6" x1="638.9" y1="68.2" x2="638.9" y2="262.3"/>
+		<line class="st0" x1="638.9" y1="264.2" x2="638.9" y2="266.2"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 720.592 99.9913)" class="st1 st2">Main loop</text>
+<rect x="696.9" y="112.8" class="st0" width="108" height="25"/>
+<rect x="696.9" y="164.8" class="st0" width="108" height="25"/>
+<rect x="696.9" y="210.8" class="st0" width="108" height="25"/>
+<g>
+	<g>
+		<line class="st0" x1="749.9" y1="143.2" x2="749.9" y2="152.1"/>
+		<g>
+			<polygon points="744.9,150.6 749.9,159.2 754.8,150.6 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="749.9" y1="192.2" x2="749.9" y2="202.1"/>
+		<g>
+			<polygon points="744.9,200.6 749.9,209.2 754.8,200.6 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st0" d="M818.5,124.8h2.5c3.2,0,5.8,3.7,5.8,8.3v87.3c0,4.6-2.6,8.3-5.8,8.3h-9.7"/>
+		<g>
+			<polygon points="820,129.7 811.4,124.8 820,119.8 			"/>
+		</g>
+	</g>
+</g>
+</svg>
