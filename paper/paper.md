@@ -1,19 +1,19 @@
 ---
 title: 'Helipad: A Framework for Agent-Based Modeling in Python'
 tags:
-	- Agent-based modeling
-	- Computational modeling
-	- Python
-	- Heterogeneous agent modeling
-	- Computational economics
-	- Computational biology
+  - Agent-based modeling
+  - Computational modeling
+  - Python
+  - Heterogeneous agent modeling
+  - Computational economics
+  - Computational biology
 authors:
-	- name: Cameron Harwick
-	  orcid: 0000-0003-2703-1627
-	  affiliation: 1
+  - name: Cameron Harwick
+    orcid: 0000-0003-2703-1627
+    affiliation: 1
 affiliations:
-	- name: Assistant Professor of Economics, SUNY Brockport
-	  index: 1
+  - name: Assistant Professor of Economics, SUNY Brockport
+    index: 1
 date: 29 June 2023
 bibliography: helipad.bib
 ---
